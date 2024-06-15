@@ -22,4 +22,4 @@ def convert_yml_to_requirements(yml_file, requirements_file):
             req_file.write(f"{pip_dep}\n")
 
 # Usage
-convert_yml_to_requirements('py4fi2nd.yml2', 'requirements.txt')
+convert_yml_to_requirements('py4fi2nd.yml', 'requirements.txt')
