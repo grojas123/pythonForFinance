@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="837915e8-8f43-4137-948d-6d0b0ddc2558" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/retrieveData/eikon.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-    </list>
+    <list default="true" id="837915e8-8f43-4137-948d-6d0b0ddc2558" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -100,7 +96,7 @@
       <updated>1718472353036</updated>
       <workItem from="1718472358688" duration="2290000" />
       <workItem from="1718474842412" duration="620000" />
-      <workItem from="1718479843431" duration="3266000" />
+      <workItem from="1718479843431" duration="3296000" />
     </task>
     <servers />
   </component>
